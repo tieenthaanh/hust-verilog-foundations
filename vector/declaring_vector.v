@@ -5,4 +5,4 @@ module top_module(
     output wire [7:0] out_lo );
     assign out_hi [7:0]=in [15:8];
     assign out_lo [7:0]= in [7:0];   
-endmodule
+endmodulegit 
